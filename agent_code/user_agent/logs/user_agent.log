@@ -1,0 +1,67 @@
+2019-03-02 22:39:32,727 [user_agent_wrapper] INFO: Import agent code from "agent_code/user_agent/callbacks.py"
+2019-03-02 22:39:32,729 [user_agent_wrapper] INFO: Initialize agent code
+2019-03-02 22:39:33,075 [user_agent_wrapper] INFO: STARTING ROUND #1
+2019-03-02 22:39:33,988 [user_agent_wrapper] INFO: STARTING STEP 1
+2019-03-02 22:39:33,988 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:33,988 [user_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-02 22:39:35,377 [user_agent_wrapper] INFO: STARTING STEP 2
+2019-03-02 22:39:35,378 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:35,378 [user_agent_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-02 22:39:35,795 [user_agent_wrapper] INFO: STARTING STEP 3
+2019-03-02 22:39:35,795 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:35,795 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:36,348 [user_agent_wrapper] INFO: STARTING STEP 4
+2019-03-02 22:39:36,348 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:36,348 [user_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-02 22:39:36,683 [user_agent_wrapper] INFO: STARTING STEP 5
+2019-03-02 22:39:36,683 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:36,683 [user_agent_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-02 22:39:37,917 [user_agent_wrapper] INFO: STARTING STEP 6
+2019-03-02 22:39:37,917 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:37,917 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:38,445 [user_agent_wrapper] INFO: STARTING STEP 7
+2019-03-02 22:39:38,445 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:38,445 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:38,979 [user_agent_wrapper] INFO: STARTING STEP 8
+2019-03-02 22:39:38,979 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:38,979 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:39,509 [user_agent_wrapper] INFO: STARTING STEP 9
+2019-03-02 22:39:39,510 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:39,510 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:39,634 [user_agent_wrapper] INFO: Received exit message for round
+2019-03-02 22:39:39,634 [user_agent_wrapper] INFO: Round #1 finished
+2019-03-02 22:39:41,162 [user_agent_wrapper] INFO: STARTING ROUND #2
+2019-03-02 22:39:42,187 [user_agent_wrapper] INFO: STARTING STEP 1
+2019-03-02 22:39:42,187 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:42,187 [user_agent_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-02 22:39:42,717 [user_agent_wrapper] INFO: STARTING STEP 2
+2019-03-02 22:39:42,717 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:42,717 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:43,264 [user_agent_wrapper] INFO: STARTING STEP 3
+2019-03-02 22:39:43,264 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:43,265 [user_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-02 22:39:43,791 [user_agent_wrapper] INFO: STARTING STEP 4
+2019-03-02 22:39:43,792 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:43,792 [user_agent_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-02 22:39:44,315 [user_agent_wrapper] INFO: STARTING STEP 5
+2019-03-02 22:39:44,315 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:44,315 [user_agent_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-02 22:39:44,844 [user_agent_wrapper] INFO: STARTING STEP 6
+2019-03-02 22:39:44,844 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:44,845 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:46,284 [user_agent_wrapper] INFO: STARTING STEP 7
+2019-03-02 22:39:46,284 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:46,284 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:46,917 [user_agent_wrapper] INFO: STARTING STEP 8
+2019-03-02 22:39:46,917 [user_agent_code] INFO: Pick action according to pressed key
+2019-03-02 22:39:46,917 [user_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-02 22:39:47,055 [user_agent_wrapper] INFO: Received exit message for round
+2019-03-02 22:39:47,055 [user_agent_wrapper] INFO: Round #2 finished
+2019-03-02 22:39:47,811 [user_agent_wrapper] INFO: STARTING ROUND #3
+2019-03-02 22:39:49,900 [user_agent_wrapper] INFO: Received exit message for round
+2019-03-02 22:39:49,900 [user_agent_wrapper] INFO: Round #3 finished
+2019-03-02 22:39:49,935 [user_agent_wrapper] INFO: STARTING ROUND #4
+2019-03-02 22:39:51,391 [user_agent_wrapper] INFO: Received exit message for round
+2019-03-02 22:39:51,392 [user_agent_wrapper] INFO: Round #4 finished
+2019-03-02 22:39:51,404 [user_agent_wrapper] INFO: Received global exit message
+2019-03-02 22:39:51,404 [user_agent_wrapper] INFO: SHUT DOWN
